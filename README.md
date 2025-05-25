@@ -35,7 +35,7 @@ Hi, I'm Murad – a Senior Data Engineer helping businesses modernise their data
 
 ### 📫 Work With Me
 Want to automate your data workflows, build robust models, or migrate to AWS?  
-Let’s connect: **murad.pipelayer@gmail.com**
+Let’s connect: **pipelayerdatastudio@gmail.com**
 
 🌐 [pipelayerdatastudio.com](https://pipelayerdatastudio.com) (Coming soon!)
 
